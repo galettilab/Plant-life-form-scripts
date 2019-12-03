@@ -7,4 +7,6 @@ Some of these scripts are outdated because it was part of my firsts learning, an
 
 The most recent and optimized scripts start with a header that contains script description and last updated data and have some notes with a description of functions or syntax throughout the script.
 
-Here I make available the scripts and main data table to make it works.
+Here I make available all the scripts that I used.
+
+For more information access: https://github.com/yuri-eco/BIOTA-plant-life-form-scripts
